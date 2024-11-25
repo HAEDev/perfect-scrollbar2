@@ -1,5 +1,6 @@
 {
-  "name": "perfect-scrollbar",
+  "name": "haedev/perfect-scrollbar",
+  "exportName": "haedev/perfect-scrollbar",
   "version": "1.4.0",
   "description": "Minimalistic but perfect custom scrollbar plugin",
   "author": "Hyunje Jun <me@noraesae.net>",
@@ -10,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/utatti/perfect-scrollbar"
+    "url": "https://github.com/haedev/perfect-scrollbar.git"
   },
   "bugs": {
     "url": "https://github.com/utatti/perfect-scrollbar/issues"
